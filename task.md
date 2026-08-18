@@ -1,0 +1,23 @@
+# Compact IMG WordPress Plugin - GitHub Deployment & Documentation Task Tracker
+
+- [x] **Task 1: Update plugin metadata, owner links, and license** <!-- id: 0 -->
+    - [x] Update `compact-img-compress-convert-images-to-webpavif.php` (Author: Compact IMG, Author URI / Plugin URI: https://compactimg.com/, Apache-2.0 license) <!-- id: 1 -->
+    - [x] Update admin footer link in `includes/class-wmfc-plugin.php` to https://compactimg.com/ <!-- id: 2 -->
+    - [x] Create `LICENSE` file (Apache License, Version 2.0) in repo root and update `compact-img-compress-convert-images-to-webpavif/license.txt` <!-- id: 3 -->
+- [x] **Task 2: Create comprehensive `readme.txt` and root `README.md`** <!-- id: 4 -->
+    - [x] Write detailed `compact-img-compress-convert-images-to-webpavif/readme.txt` with all features, functions, FAQ, changelog, and CompactIMG.com links <!-- id: 5 -->
+    - [x] Create root `README.md` for GitHub with badges, download links, detailed feature breakdowns, system requirements, architecture, and guides <!-- id: 6 -->
+- [x] **Task 3: Package ready-to-download plugin ZIP** <!-- id: 7 -->
+    - [x] Clean up `.DS_Store` and temporary files <!-- id: 8 -->
+    - [x] Generate clean `compact-img-compress-convert-images-to-webpavif.zip` containing the updated plugin <!-- id: 9 -->
+- [x] **Task 4: Initialize Git repository and commit files** <!-- id: 10 -->
+    - [x] Initialize git repository in workspace directory <!-- id: 11 -->
+    - [x] Create `.gitignore` to exclude OS artifacts (.DS_Store, etc.) <!-- id: 12 -->
+    - [x] Stage and commit all files with clean commit messages <!-- id: 13 -->
+- [x] **Task 5: Create public GitHub repository and push codebase** <!-- id: 14 -->
+    - [x] Create public GitHub repo `Compact-IMG-Free-Image-Compression-and-converion-wordpress-Plugin` <!-- id: 15 -->
+    - [x] Push local `main` branch to remote GitHub repository <!-- id: 16 -->
+    - [x] Create GitHub Release `v1.6.2` with downloadable `compact-img-compress-convert-images-to-webpavif.zip` attached <!-- id: 17 -->
+- [x] **Task 6: Verification and Walkthrough** <!-- id: 18 -->
+    - [x] Verify repository is public, files are uploaded, download ZIP is accessible <!-- id: 19 -->
+    - [x] Provide final summary and links to the user <!-- id: 20 -->
